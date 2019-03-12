@@ -14,19 +14,15 @@ h1 {
      }
 
 h2 {
-  font-family: "Comic Sans MS";
-  font-size: 20px;
-  font-weight: 100;
-  letter-spacing: 2px;
-  margin: 0;
+  font-size: 20px
   text-align: center;
-  text-transform: uppercase;
   color: white;
 }
 
 h5 {
+  font-size: 20px
   text-align: center;
-   color: white;
+  color: white;
 }
 
 .header {
