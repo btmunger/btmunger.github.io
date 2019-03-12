@@ -23,6 +23,9 @@ h2 {
   color: white;
 }
 
+h5 {
+  text-align:center
+}
 
 .header {
   background: url(http://s3.amazonaws.com/codecademy-content/projects/innovation-cloud/bg.jpg) no-repeat center center; 
